@@ -3,7 +3,7 @@
 * Location: Porto, Portugal
 * Company: [PlatformE](https://github.com/ripe-tech)
 * Twitter: [@joamag](https://twitter.com/joamag)
-* Website: [https://joao.me](https://www.joao.me)
+* Website: [https://joao.me](https://joao.me)
 * Pronouns: he/him
 
 I'm always looking for new challenges and opportunities.\
