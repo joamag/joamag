@@ -1,7 +1,7 @@
 ### João Magalhães 👨‍💻🇵🇹
 
 * Location: Porto, Portugal
-* Company: [Amplemarket](https://github.com/amplemarket)
+* Company: [Hive Solutions](https://github.com/hivesolutions)
 * Twitter: [@joamag](https://twitter.com/joamag)
 * Website: [https://joao.me](https://joao.me)
 * Pronouns: he/him
